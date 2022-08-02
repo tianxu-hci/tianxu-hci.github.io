@@ -29,6 +29,7 @@ nav_order: 5
     <td></td>
     <td><i>Syracuse University</i></td>
     <td></td>
+    <td></td>
     <td>Fall 2019</td>
   </tr>
 </table>
