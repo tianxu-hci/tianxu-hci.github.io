@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>tixu6250@colorado.edu</p>
-    <p>Uni. Colorado Boulder</p>
+    <p>Uni. of Colorado Boulder</p>
 
 
 news: true  # includes a list of news items
