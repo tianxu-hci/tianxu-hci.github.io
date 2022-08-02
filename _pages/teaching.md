@@ -12,7 +12,9 @@ nav_order: 5
 <table>
   <tr>
     <td>INFO2201 Computational Reasoning II</td>
+    <td></td>
     <td><i>CU Boulder</i></td>
+    <td></td>
     <td>Fall 2021</td>
   </tr>
   <tr>
