@@ -19,12 +19,16 @@ nav_order: 5
   </tr>
   <tr>
     <td>IST664 Natural Language Processing</td>
+    <td></td>
     <td><i>Syracuse University</i></td>
+    <td></td>
     <td>Spring 2020</td>
   </tr>
   <tr>
     <td>IST621 Information Management and Technology</td>
+    <td></td>
     <td><i>Syracuse University</i></td>
+    <td></td>
     <td>Fall 2019</td>
   </tr>
 </table>
