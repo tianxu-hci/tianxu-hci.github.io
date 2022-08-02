@@ -13,12 +13,14 @@ nav_order: 5
   <tr>
     <td>INFO2201 Computational Reasoning II</td>
     <td></td>
+    <td></td>
     <td><i>CU Boulder</i></td>
     <td></td>
     <td>Fall 2021</td>
   </tr>
   <tr>
     <td>IST664 Natural Language Processing</td>
+    <td></td>
     <td></td>
     <td><i>Syracuse University</i></td>
     <td></td>
@@ -29,7 +31,6 @@ nav_order: 5
     <td></td>
     <td></td>
     <td><i>Syracuse University</i></td>
-    <td></td>
     <td></td>
     <td>Fall 2019</td>
   </tr>
