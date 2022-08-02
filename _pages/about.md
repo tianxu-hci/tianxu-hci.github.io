@@ -10,7 +10,6 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>tixu6250@colorado.edu</p>
-    <p>[TMI](https://tmilab.colorado.edu/) Lab</p>
     <p>Uni. of Colorado Boulder</p>
 
 
