@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>tixu6250 at colorado dot edu</p>
+    <p>tixu6250@colorado.edu</p>
     <p>Uni. Colorado Boulder</p>
 
 
