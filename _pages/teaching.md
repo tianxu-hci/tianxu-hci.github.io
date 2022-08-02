@@ -17,6 +17,7 @@ nav_order: 5
     <td><i>CU Boulder</i></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Fall 2021</td>
   </tr>
   <tr>
@@ -26,6 +27,7 @@ nav_order: 5
     <td><i>Syracuse University</i></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>Spring 2020</td>
   </tr>
   <tr>
@@ -33,6 +35,7 @@ nav_order: 5
     <td></td>
     <td></td>
     <td><i>Syracuse University</i></td>
+    <td></td>
     <td></td>
     <td></td>
     <td>Fall 2019</td>
