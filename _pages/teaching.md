@@ -2,11 +2,27 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<strong>Teaching Assistant</strong>
 
-Organize your courses by years, topics, or universities, however you like!
+<table>
+  <tr>
+    <td>INFO2201 Computational Reasoning II</td>
+    <td><i>CU Boulder</i></td>
+    <td>Fall 2021</td>
+  </tr>
+  <tr>
+    <td>IST664 Natural Language Processing</td>
+    <td><i>Syracuse University</i></td>
+    <td>Spring 2020</td>
+  </tr>
+  <tr>
+    <td>IST621 Information Management and Technology</td>
+    <td><i>Syracuse University</i></td>
+    <td>Fall 2019</td>
+  </tr>
+</table>
