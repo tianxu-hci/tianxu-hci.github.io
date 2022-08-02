@@ -27,6 +27,7 @@ nav_order: 5
   <tr>
     <td>IST621 Information Management and Technology</td>
     <td></td>
+    <td></td>
     <td><i>Syracuse University</i></td>
     <td></td>
     <td></td>
