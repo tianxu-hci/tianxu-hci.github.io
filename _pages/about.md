@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Tian is a second-year Ph.D. student advised by [Dr. Stephen Voida](https://stephen.voida.com/). Delving into health informatics in HCI, her research centers on mental health informatics with a focus on bipolar disorder. Before joining [INFO](https://www.colorado.edu/cmci/infoscience) at CU Boulder, she earned a M.S. in information management at Syracuse University.
+Tian is a second-year Ph.D. student advised by [Dr. Stephen Voida](https://stephen.voida.com/) and a member of [TMI (Too much information) lab](https://tmilab.colorado.edu/). Tian's research lies at the intersection of human-computer interaction, health informatics, and design, centering on understanding technology-mediated health management strategies in people's day-to-day life, designing and measuring novel health support technology or system, and examining privacy concerns about health data sharing. Before joining [INFO](https://www.colorado.edu/cmci/infoscience) at CU Boulder, she earned a M.S. in information management at Syracuse University.
