@@ -6,7 +6,7 @@ subtitle: <a href='#'>Hello :)</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Tian.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>tixu6250ATcoloradoDOTedu</p>
