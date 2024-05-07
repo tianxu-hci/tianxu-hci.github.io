@@ -1,80 +1,33 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Designing future mental health support technologies
+description:
+img: assets/img/1.png
 importance: 1
-category: work
+category: Research Projects
+tabs: true
+tags: mental health and wellbeing, empirical research, design, computing
 ---
+> Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. -- _The Myth of Sisyphus by Albert Camus_
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Personal mental health informatics is my main research focus, with a particular interest in everyday in-the-moment management and support. Bringing together the methods from empirical research, design, and computing, I aim to design future self-management technologies with novel modalities that are complementary to existing mental health support infrastructure.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+I welcome undergraduate students to join in this research project! If you are interested in this topic and would like to gain research experiences related to qualitative and design methods, please feel free to email me @tixu6250@coloorado.edu.
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+{% tabs Outcomes %}
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+{% tab Outcomes Peer-reviewed Publications %}
+
+[Tian Xu, Junnan Yu, Dylan Thomas Doyle, and Stephen Voida. 2023. Technology-Mediated Strategies for Coping with  Mental Health Challenges: Insights from People with Bipolar Disorder. Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 240 (October 2023), 31 pages.](https://doi-org.colorado.idm.oclc.org/10.1145/3610031)
+
+{% endtab %}
+
+{% tab Outcomes Workshops/Talks/Presentations %}
+- Technological mediation of strategies in coping with mental health challenges: A case study with people with bipolar disorder. Designing Ecosystems for Complex Health Needs (CHI ’22), April 30, 2022. New Orleans, LA.
+
+
+{% endtab %}
+
+{% endtabs %}
