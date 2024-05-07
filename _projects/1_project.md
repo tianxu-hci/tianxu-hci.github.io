@@ -5,7 +5,6 @@ description:
 img: assets/img/1.png
 importance: 1
 category: Research Projects
-tabs: true
 tags: mental health and wellbeing, empirical research, design, computing
 ---
 > Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. -- _The Myth of Sisyphus by Albert Camus_
