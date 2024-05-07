@@ -1,17 +1,13 @@
 ---
 layout: page
 title: Designing future mental health support technologies
-description:
+description: _Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. -- The Myth of Sisyphus by Albert Camus_
 img: assets/img/1.png
 importance: 1
 category: Research Projects
 tags: mental health and wellbeing, empirical research, design, computing
 ---
->Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. -- _The Myth of Sisyphus by Albert Camus_
 
-
-<br />
-<br />
 Personal mental health informatics is my main research focus, with a particular interest in everyday in-the-moment management and support. Bringing together the methods from empirical research, design, and computing, I aim to design future self-management technologies with novel modalities that are complementary to existing mental health support infrastructure.
 
 
@@ -20,7 +16,7 @@ I welcome undergraduate students to join in this research project! If you are in
 <br />
 <br />
 <a href='#'>PEER-REVIEWED PUBLICATIONS</a>
-- Tian Xu, Junnan Yu, Dylan Thomas Doyle, and Stephen Voida. 2023. Technology-Mediated Strategies for Coping with  Mental Health Challenges: Insights from People with Bipolar Disorder. Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 240 (October 2023), 31 pages. https://doi-org.colorado.idm.oclc.org/10.1145/3610031
+- Tian Xu, Junnan Yu, Dylan Thomas Doyle, and Stephen Voida. 2023. Technology-Mediated Strategies for Coping with  Mental Health Challenges: Insights from People with Bipolar Disorder. Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 240 (October 2023), 31 pages. [https://doi.org/10.1145/3610031](https://doi.org/10.1145/3610031)
 
 <a href='#'>WORKSHOPS/PRESENTATIONS/TALKS</a>
 - Technological mediation of strategies in coping with mental health challenges: A case study with people with bipolar disorder. Designing Ecosystems for Complex Health Needs (CHI ’22), April 30, 2022. New Orleans, LA.
