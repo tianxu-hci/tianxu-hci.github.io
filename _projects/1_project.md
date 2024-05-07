@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-description: Designing future mental health support technologies
+title: Designing future mental health support technologies
+description:
 img: assets/img/1.png
 importance: 1
 category: Research Projects
@@ -16,7 +16,6 @@ Personal mental health informatics is my main research focus, with a particular 
 
 I welcome undergraduate students to join in this research project! If you are interested in this topic and would like to gain research experiences related to qualitative and design methods, please feel free to email me: tixu6250 AT colorado DOT edu.
 
-<br />
 <br />
 <a href='#'>PEER-REVIEWED PUBLICATIONS</a>
 - Tian Xu, Junnan Yu, Dylan Thomas Doyle, and Stephen Voida. 2023. Technology-Mediated Strategies for Coping with  Mental Health Challenges: Insights from People with Bipolar Disorder. Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 240 (October 2023), 31 pages. [https://doi.org/10.1145/3610031](https://doi.org/10.1145/3610031)
