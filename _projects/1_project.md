@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Designing future mental health support technologies
-description: _Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. -- The Myth of Sisyphus by Albert Camus_
+title:
+description: Designing future mental health support technologies
 img: assets/img/1.png
 importance: 1
 category: Research Projects
 tags: mental health and wellbeing, empirical research, design, computing
 ---
 
+>Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. -- _The Myth of Sisyphus by Albert Camus_
+
+<br />
 Personal mental health informatics is my main research focus, with a particular interest in everyday in-the-moment management and support. Bringing together the methods from empirical research, design, and computing, I aim to design future self-management technologies with novel modalities that are complementary to existing mental health support infrastructure.
 
 
