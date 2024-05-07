@@ -21,5 +21,5 @@ I welcome undergraduate students to join in this research project! If you are in
 <span style="color:purple">PEER-REVIEWED PUBLICATIONS</span>
 - Tian Xu, Junnan Yu, Dylan Thomas Doyle, and Stephen Voida. 2023. Technology-Mediated Strategies for Coping with  Mental Health Challenges: Insights from People with Bipolar Disorder. Proc. ACM Hum.-Comput. Interact. 7, CSCW2, Article 240 (October 2023), 31 pages. [https://doi.org/10.1145/3610031](https://doi.org/10.1145/3610031)
 
-<span style="color:purple">PEER-REVIEWED PUBLICATIONS</span>
+<span style="color: purple">WORKSHOPS/PRESENTATIONS/TALKS</span>
 - Technological mediation of strategies in coping with mental health challenges: A case study with people with bipolar disorder. Designing Ecosystems for Complex Health Needs (CHI ’22), April 30, 2022. New Orleans, LA.
