@@ -9,10 +9,10 @@ tags: mental health and wellbeing, empirical research, design, computing
 ---
 
 
-> <span style="font-size:0.9em;">Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. - _The Myth of Sisyphus by Albert Camus_</span>
+> <span style="font-size:0.8em;">Understanding the world for a man is reducing it to the human, stamping it with his seal. The cat's universe is not the universe of the anthill. - _The Myth of Sisyphus by Albert Camus_</span>
 
 <br />
-Personal mental health informatics is my main research focus, with a particular interest in everyday in-the-moment management and support. Bringing together the methods from empirical research, design, and computing, I aim to design future self-management technologies with novel modalities that are complementary to existing mental health support infrastructure.
+My main research focus is personal mental health informatics, with a particular interest in everyday management and support. Bringing together the methods from empirical research, design, and computing, I aim to design future self-management technologies with novel modalities that are complementary to existing mental health support infrastructure.
 
 
 I welcome undergraduate students to join in this research project! If you are interested in this topic and would like to gain research experiences related to qualitative and design methods, please feel free to email me: tixu6250 AT colorado DOT edu.

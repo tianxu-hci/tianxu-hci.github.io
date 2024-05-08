@@ -7,9 +7,9 @@ importance: 2
 category: Research Projects
 ---
 
-I am also interested in understanding how context-aware health technology can better support human-machine collaboration, aiding people's seamless health management and other routines in everyday life. Motivated by this interest, I examine contextualized health management from STS perspective, offering insights into context-aware technology design.
+I am interested in understanding how context-aware health technology can better support human-machine collaboration, aiding people's seamless routines between health management and other everyday activities. Motivated by this interest, I examine contextualized health management from STS perspective and offer insights into context-aware technology design.
 
-Context-aware technologies, such as hybrid closed-loop (HCL) insulin pumps, are important tools for diabetes self-management. From the perspective of infrastructuring, we found that young people leverage both technological and non-technological means to maintain situational awareness about their health condition. I served as a research assistant for this NIH-supported project.
+Context-aware technologies, such as hybrid closed-loop (HCL) insulin pumps, are important tools for diabetes self-management. From the perspective of infrastructure and infrastructuring, we found that young people leverage both technological and non-technological means to maintain situational awareness about their health condition. I served as a research assistant for this NIH-supported project.
 
 
 <br />
