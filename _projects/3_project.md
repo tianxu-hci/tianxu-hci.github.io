@@ -7,7 +7,7 @@ importance: 3
 category: Research Projects
 ---
 
-####Overview
+#### Overview
 These mini-version of ethnographic studies were driven by a major question: "What makes spaces places?" The projects drew inspiration from ethnographic methods. I employed short-term fieldwork, interviews, and observations to explore offline grocery shopping experiences in Boulder and learning/entertainment experiences at the Denver Museum of Nature and Science. We conducted iterative thematic analysis of diverse data sources (e.g., field notes, pictures, videos, and transcripts). We further provided  design recommendations improving future graduate students' shopping and museum visitors' experiences. A full version of this research project can be found on [Miro Board](https://miro.com/app/board/uXjVMVP_1sU=/).
 
 <div class="row justify-content-sm-center">
@@ -23,7 +23,7 @@ These mini-version of ethnographic studies were driven by a major question: "Wha
 
 ---
 
-####Project traces
+#### Project traces
 
 - Pre-project research and plan
 We conducted literature review, online information exploration and collection of the sites prior to on-site research. In doing so, we had clearer problem statements for developing interview protocols and on-site observation spotlights.  
