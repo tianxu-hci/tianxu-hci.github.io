@@ -25,12 +25,12 @@ These mini-version of ethnographic studies were driven by a major question: "Wha
 
 #### Project traces
 
-### Pre-project research and plan
+##### Pre-project research and plan
 We conducted literature review, online information exploration and collection of the sites prior to on-site research. In doing so, we had clearer problem statements for developing interview protocols and on-site observation spotlights.  
 
 {% include figure.html path="assets/img/9.png" class="img-fluid rounded z-depth-1"%}
 
-### During- and Post-project data collection and analysis
+##### During- and Post-project data collection and analysis
 We collected diverse raw data and conducted iterative thematic analysis (e.g., rounds of affinity diagramming and laddering method for design recommendations).
 
 
