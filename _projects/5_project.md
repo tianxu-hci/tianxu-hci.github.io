@@ -12,7 +12,7 @@ I love calligraphy, particularly traditional Chinese calligraphy. I’m also obs
 ---
 Just sharing a piece :)
 
-Inspired by his creation and NüShu (script created by and used by women in Southern China. An example introduction can be found [here](https://www.bbc.com/travel/article/20200930-nshu-chinas-secret-female-only-language)), I practiced writing my first name in English–Tian (甜 in Chinese, which is my last name).
+Inspired by his creation and NüShu (script created by and used by women in Southern China. An example introduction can be found [here](https://www.bbc.com/travel/article/20200930-nshu-chinas-secret-female-only-language)), I practiced writing my first name in English–Tian (甜 in Chinese).
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
