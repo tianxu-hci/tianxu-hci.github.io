@@ -7,7 +7,7 @@ importance: 1
 category: Hobbies
 ---
 
-I love calligraphy, particularly traditional Chinese calligraphy. I’m also obsessed with the creation of combining its aesthetics with other things, generating new and inspiring meanings, such as the artwork of [Book from the Sky](https://www.xubing.com/en/exhibition/details/419?year=2016) by the Chinese artist [Xu Bing (徐冰)](https://www.xubing.com/).*(My _very simple_ description is: writing English letters using the style of Chinese calligraphy and combining them to form words)*.
+I love calligraphy, particularly traditional Chinese calligraphy. I’m also obsessed with the creation of combining its aesthetics with other things, generating new and inspiring meanings, such as the artwork of [Book from the Sky](https://www.xubing.com/en/exhibition/details/419?year=2016) by the Chinese artist [Xu Bing (徐冰)](https://www.xubing.com/).(My ***very simple*** description is: writing English letters using the style of Chinese calligraphy and combining them to form words).
 
 ---
 Just sharing a piece :)
